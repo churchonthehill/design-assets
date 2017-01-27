@@ -2,9 +2,9 @@
 # Design Assets
 ***Design guidelines and graphic assets for Church on the Hill***
 
-##You can find the design guide [**here**](./Logo%20Style%20Guide.pdf)
+###You can find the design guide [**here**](./Logo%20Style%20Guide.pdf)
 
-##You can find the latest version of the assets [**here**](https://github.com/churchonthehill/design-assets/releases/latest)
+###You can find the latest version of the assets [**here**](https://github.com/churchonthehill/design-assets/releases/latest)
 > Download the "Source Code (zip)" and unzip the file to access all the logos
 
 > Or just browse the files [here](https://github.com/churchonthehill/design-assets)
