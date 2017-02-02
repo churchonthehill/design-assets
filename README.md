@@ -1,4 +1,5 @@
-# Church on the Hill
+<img src="https://raw.githubusercontent.com/churchonthehill/design-assets/1cb96c7c05304fd5fb437341f5c558326c6cfb62/Web%20Logos/Full%20Logo/Full%20Web%20Color/WEB%20Full%20Color%20logo.png" width=300px>
+
 # Design Assets
 ***Design guidelines and graphic assets for Church on the Hill***
 
