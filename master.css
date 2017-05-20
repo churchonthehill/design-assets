@@ -14,8 +14,10 @@ body {
 }
 .Open-Sans {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
+}
 
+.lower-margin {
+  margin: 6px ;
 }
 
 .bold {
